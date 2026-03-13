@@ -11,8 +11,8 @@ from oauth2client.service_account import ServiceAccountCredentials
 # CONFIGURATION
 # ========================
 
-TOKEN = "MTQ4MTY3NDA1MjgyNDIwNzU5Mw.GF4Hfb.oCFyOHEjGrHQTvrwYlwfoPpeFpYwBUzR1O3nqk"
-CHANNEL_ID = 1481703144290258964
+TOKEN = "Add you Discord Bot Token "
+CHANNEL_ID = Add you Discord Channel ID
 
 CHECK_INTERVAL = 180
 BATCH_SIZE = 100
